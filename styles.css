@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    height: 600px;
+    width: 600px;
+    background-color: lightgray;
+    flex-wrap: wrap;
+    
+}
+
+h1 {
+    color: lightsalmon;
+    font-weight: 700;
+    font-family: cursive;
+    border: 0.25px dashed black;
+    box-sizing: border-box;
+    height: fit-content;
+    padding: 5px;
+}
+
+p {
+    line-height: 8px;
+    font-weight: 300;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.summary {
+    height: 400px;
+    width: 600px;
+    background-color: lightgrey;
+
+}
